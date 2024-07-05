@@ -39,7 +39,8 @@ Tools for data mining, evaluation of model performance, and potentially preproce
 
 
 ## **Usage**
-**Training:** Run python train.py to train the model using the prepared dataset.\n
+**Training:** Run python train.py to train the model using the prepared dataset.
+
 **Prediction:** Run python predict.py to use the trained model for real-time prediction using webcam capture.
 
 ## **Credits**
