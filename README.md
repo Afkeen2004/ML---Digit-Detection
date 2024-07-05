@@ -43,5 +43,6 @@ Training: Run python train.py to train the model using the prepared dataset.
 Prediction: Run python predict.py to use the trained model for real-time prediction using webcam capture.
 
 ## **Credits**
-Author: Afsheen Wasfiya Abdul Wahab
-LinkedIn: https://www.linkedin.com/in/afsheen-wasfiya-abdul-wahab-33a504257/
+**Author: **Afsheen Wasfiya Abdul Wahab
+
+**LinkedIn:** https://www.linkedin.com/in/afsheen-wasfiya-abdul-wahab-33a504257/
