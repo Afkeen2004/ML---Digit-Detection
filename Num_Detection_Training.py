@@ -184,7 +184,7 @@ print("Test Score:", score[0])
 print("Test Accuracy:", score[1])
 
 # Save the model
-pickle_out = open("model_trained.p", "wb")
+pickle_out = open("model.pkl", "wb")
 try:
     with open('model.pkl', 'wb') as f:
         pickle.dump(model, f)
