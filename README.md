@@ -19,21 +19,21 @@ The model is trained using Adam optimizer with categorical crossentropy loss. Da
 Model performance is evaluated on a separate test set using accuracy metrics. Training and validation loss/accuracy curves are plotted to assess training progress.
 
 ## **Dependencies**
- * Python 3.x: Programming language used for development.
+ * **Python 3.x:** Programming language used for development.
 
-* TensorFlow 2.x: Open-source machine learning framework by Google.
+* **TensorFlow 2.x:** Open-source machine learning framework by Google.
 
 Build and train deep learning models, manage computational graphs, and optimize GPU computation.
-* OpenCV: Library for real-time computer vision tasks.
+* **OpenCV:** Library for real-time computer vision tasks.
 
 Image and video processing, including reading, resizing, manipulation, and object detection.
-* NumPy: Fundamental package for numerical computing in Python.
+* **NumPy:** Fundamental package for numerical computing in Python.
 
 Support for multi-dimensional arrays, matrices, and mathematical operations, essential for data manipulation.
-* Matplotlib: Plotting library for Python.
+* **Matplotlib:** Plotting library for Python.
 
 Create visualizations such as graphs for training/validation metrics and display sample images.
-* scikit-learn: Machine learning library for Python.
+* **scikit-learn:** Machine learning library for Python.
 
 Tools for data mining, evaluation of model performance, and potentially preprocessing and feature extraction.
 
