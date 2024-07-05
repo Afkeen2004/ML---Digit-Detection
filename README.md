@@ -44,4 +44,6 @@ Tools for data mining, evaluation of model performance, and potentially preproce
 ## **Credits**
 **Author:** Afsheen Wasfiya Abdul Wahab
 
-**LinkedIn:** https://www.linkedin.com/in/afsheen-wasfiya-abdul-wahab-33a504257/
+**Dataset:** The Chars74K dataset
+
+**LinkedIn:** https://www.linkedin.com/in/afsheen-wasfiya-abdul-wahab-33a504257
