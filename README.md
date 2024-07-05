@@ -1,7 +1,5 @@
 # ML---Digit-Detection
 This project focuses on developing a machine learning model to identify numbers within images, laying the groundwork for future text detection algorithms.
-Number Identification for Text Detection
-This project focuses on developing a machine learning model to identify numbers within images, laying the groundwork for future text detection algorithms.
 
 ## **Overview**
 This project aims to classify and localize numerical digits in images, preparing for more complex text detection tasks. It involves preprocessing, training a convolutional neural network (CNN) model using TensorFlow/Keras, and evaluating its performance.
